@@ -57,6 +57,46 @@ function App() {
         </div>
       </div>
 
+      <div class="row">
+        <div class="column">
+          <img src="fan19.png" alt="fans" />
+          <img src="fan20.png" alt="fans" />
+        </div>
+        <div class="column">
+          <img src="fan21.png" alt="fans" />
+          <img src="fan22.png" alt="fans" />
+        </div>
+        <div class="column">
+          <img src="fan23.png" alt="fans" />
+          <img src="fan24.png" alt="fans" />
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="column">
+          <img src="fan25.png" alt="fans" />
+          <img src="fan26.png" alt="fans" />
+        </div>
+        <div class="column">
+          <img src="fan27.png" alt="fans" />
+          <img src="fan28.png" alt="fans" />
+        </div>
+        <div class="column">
+          <img src="fan29.png" alt="fans" />
+          <img src="fan30.png" alt="fans" />
+        </div>
+      </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+
       <Footer />
     </div>
   );
