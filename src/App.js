@@ -1,5 +1,15 @@
 import "./App.css";
 
+export const Footer = () => (
+  <div className="footer">
+    <p>
+      This is an onlyfans page. No recorded or collected data, no analytics, no
+      statistics. Work safe content. Feel free to share with somebody, who needs
+      it.
+    </p>
+  </div>
+);
+
 function App() {
   return (
     <div className="App">
@@ -46,6 +56,8 @@ function App() {
           <img src="fan18.png" alt="fans" />
         </div>
       </div>
+
+      <Footer />
     </div>
   );
 }

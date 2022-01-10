@@ -71,3 +71,14 @@
     max-width: 100%;
   }
 }
+
+.footer {
+  margin-top: 1em;
+  padding: 1rem;
+  background-color: rgb(26, 20, 2);
+  color: wheat;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
