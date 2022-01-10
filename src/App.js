@@ -2,11 +2,9 @@ import "./App.css";
 
 export const Footer = () => (
   <div className="footer">
-    <p>
-      This is an onlyfans page. No recorded or collected data, no analytics, no
-      statistics. Work safe content. Feel free to share with somebody, who needs
-      it.
-    </p>
+    <p>This is an onlyfans page. </p>
+    <p> Work safe content.</p>
+    <p> Feel free to share with somebody, who needs it.</p>
   </div>
 );
 
