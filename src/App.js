@@ -83,6 +83,20 @@ function App() {
           <img src="fan29.png" alt="fans" />
           <img src="fan30.png" alt="fans" />
         </div>
+
+        <div class="row">
+          <div class="column">
+            <img src="fan31.png" alt="fans" />
+            <img src="fan32.png" alt="fans" />
+          </div>
+          <div class="column">
+            <img src="fan33.png" alt="fans" />
+            <img src="fan34.png" alt="fans" />
+          </div>
+          <div class="column">
+            <img src="fan35.png" alt="fans" />
+          </div>
+        </div>
       </div>
       <br />
       <br />
